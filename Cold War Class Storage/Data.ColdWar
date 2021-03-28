@@ -1,0 +1,199 @@
+AttachmentTypes
+1,OPTIC
+2,MUZZLE
+3,BARREL
+4,BODY
+5,UNDERBARREL
+6,MAGAZINE
+7,HANDLE
+8,STOCK
+//Break//Attachment
+1,Quickdot LED,1
+2,Millstop Reflex,1
+3,Kobra Reddot Sight,1
+4,Silex Holoscout,1
+5,Visiontech 2x,1
+6,Axial Arms 3x,1
+7,Royal  Kross 4x,1
+8,Iron Sights,1
+9,Microflex LED,1
+10,Hawksmoor,1
+11,Snappoint,1
+12,Diamondback Reflex,1
+13,Fastpoint Reflex,1
+14,SUSAT Multizoom,1
+15,AN/PVS-4 Thermal,1
+16,Noch Sova Thermal,1
+17,Hangman RF,1
+18,Vulture Custom Zoom,1
+19,Ultrazoom Custom,1
+20,Ottero Mini Reflex,1
+21,Silencer,2
+22,Suppressor,2
+23,Sound Moderator,2
+24,Infantry Compensator,2
+25,Spetsnaz Compensator,2
+26,Infantry Stabilizer,2
+27,Infantry V-Choke,2
+28,SOCOM Elimination,2
+29,KGB Eliminator,2
+30,Task Force Shroud,2
+31,SOCOM Blast Mitigator,2
+32,Agency Suppressor,2
+33,GRU Suppressor,2
+34,Wrapper Suppressor,2
+35,Agency Choke,2
+36,Extended,3
+37,Cavalry Lancer,3
+38,Rapid Fire,3
+40,Ranger,3
+41,Liberator,3
+42,Reinforced Heavy,3
+43,VDV Reinforced,3
+44,Cortour,3
+45,Ultralight,3
+47,CMV MIL-Spec,3
+48,Spetsnaz RPK Barrel,3
+49,Rifled,3
+50,Titanium,3
+51,Cut Down,3
+52,Division,3
+53,SOR Cut Down,3
+54,GRU Cut Down,3
+55,Combat Recon,3
+56,Tiger Team,3
+57,Hammer Forged,3
+58,Chrome Lines,3
+129,Match Grade,3
+59,Steady Aim Laser,4
+60,Swat 5mw Laser Sight,4
+61,Mounted Flashlight,4
+62,SOF Target Designator,4
+63,KGB Target Designator,4
+64,GRU 5mv Laser Sight,4
+65,Tiger Team Spotlight,4
+66,Ember Sighting Point,4
+67,Foregrip,5
+68,Red Cell Foregrip,5
+69,Patrol Grip,5
+70,Front Grip,5
+71,Infiltrator Grip,5
+72,Bruiser Grip,5
+73,Field Agent Grip,5
+74,Spetznaz Grip,5
+75,Field Agent Foregrip,5
+76,Spetsnaz Ergonomic Grip,5
+77,Bipod,5
+78,SFOD Speedgrip,5
+79,Spetsnaz Speedgrip,5
+80,Tactical Stock,8
+81,Sprint Pad,8
+82,Wire Stock,8
+83,Marathon Stock,8
+84,Collapsed Stock,8
+85,CQB Stock,8
+86,Shotgun Stock,8
+87,Duster Pad,8
+88,Duster Stock,8
+89,Buffer Tube,8
+90,No Stock,8
+92,SAS Combat stock,8
+93,Spetsnaz PKM Stock,8
+94,Raider Pad,8
+95,Raider Stock,8
+96,KGB Pad,8
+97,KGB Skeletal Stock,8
+98,40 Round mag,6
+99,Fast Mag,6
+100,40 Rd Speed Mag,6
+101,Jungle-Style Mag,6
+102,Taped Mag,6
+103,Fast Loader,6
+104,STANAG Mag,6
+105,Bakelite Mag,6
+106,Spetsnaz Mag,6
+107,SAS Mag Clamp,6
+108,GRU Mag Clamp,6
+109,Vandal Speed Loader,6
+110,Salvo Fast Mag,6
+111,VDV Fast Mag,6
+112,Speed Tape,7
+113,Mike Force Rear Grip,7
+114,Dropshot Tape,7
+115,Field Tape,7
+116,SASR Jungle Grip,7
+117,Spetsnaz Field Grip,7
+118,Serpent Wrap,7
+119,Airborne Elastic Wrap,7
+120,GRU Elastic Wrap,7
+121,None,1
+122,None,2
+123,None,3
+124,None,4
+125,None,5
+126,None,6
+127,None,7
+128,None,8
+130,STANAG 18 Rnd Drum,6
+135,Task Force,3
+136,Muzzle Brake,2
+137,Spetsnaz,6
+138,STANAG 12 RND Tube,6
+139,Takedown,3
+140,Duckbill Choke,2
+//Break//Gun
+1,XM4,True
+2,Krig 6,True
+3,AK47,True
+4,QBZ83,True
+5,FFAR 1,True
+6,MP5,True
+7,Milano 821,True
+8,AK74u,True
+9,KSP 45,True
+10,Bullfrog,True
+11,M16,True
+12,Type 63,True
+13,AUG,True
+14,DMR 14,True
+15,RPD,True
+16,Stoner 63,True
+17,M60,True
+18,LW3  Tundra,True
+19,Pellington 703,True
+20,M82,True
+21,1911,False
+22,Diamatti,False
+23,Magnum,False
+24,Hauer 77,False
+25,Gallo SA12,False
+26,Cigma 2,False
+27,RPG 7,False
+28,None,True
+29,Street Sweeper,False
+30,LC10,True
+31,Fara 83,True
+32,Mac10,True
+33,R1 Shadowhunter,True
+34,Test gun,True
+//Break//Build
+StreetyBoi,29,121,27,135,60,121,130,119,121,1
+RPD Best,15,14,25,135,64,67,137,117,82,1
+VIP pistol,21,1,32,121,60,121,109,121,121,0
+Main Gallo,25,121,35,135,66,121,138,115,121,1
+Copy-Fara-2,31,9,136,41,121,121,108,112,97,0
+Copy-Fara-1,31,6,25,121,121,121,98,120,121,0
+Copy-Ak74u,8,121,121,49,121,74,108,115,93,0
+Copy-XM4-1,1,121,32,135,60,78,121,121,94,0
+Copy-Ak74-2,8,121,29,135,121,74,111,121,121,0
+Copy-M16,11,14,24,121,60,73,121,112,121,0
+Copy-M16-2,11,9,136,37,60,121,121,121,121,0
+Copy-Fara 83-2,31,6,121,41,121,121,137,121,97,0
+Mac10-1,32,9,121,42,121,67,98,112,121,1
+Edgars mp5,6,13,32,49,121,72,121,121,87,1
+OP Hauer,24,121,140,135,66,121,138,119,121,0
+Copy-AK47,3,10,25,43,121,79,121,121,80,0
+ILove Stoner,16,6,24,135,60,73,110,118,82,1
+Copy-LC10,30,121,24,42,121,73,110,119,121,0
+Copy-Krig 6-1,2,12,22,139,121,121,110,121,92,0
+Copy-QBZ-83-1,4,6,32,37,121,121,121,121,95,0
